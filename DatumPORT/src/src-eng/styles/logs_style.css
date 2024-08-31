@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.logo-container {
+   
+}
+
+.logo {
+    width: 300px;
+}
+
+.button {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+    text-decoration: none;
+    font-size: 16px;
+    transition: 1s background-color;
+}
+
+    .button:hover {
+        background-color:#23be42;
+    }
+
+main {
+    padding: 20px;
+}
+
+.button-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .data-table th, .data-table td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .data-table th {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .data-table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .data-table tr:hover {
+        background-color: #ddd;
+    }
+
+    .data-table td {
+        font-size: 14px;
+        color: #333;
+    }
+
+        .data-table td.action {
+            font-weight: bold;
+            color: #333;
+        }
