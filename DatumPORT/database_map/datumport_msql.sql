@@ -97,9 +97,6 @@ CREATE TABLE `usrlogs001` (
 -- Dumping data for table `usrlogs001`
 --
 
-INSERT INTO `usrlogs001` (`id`, `action`, `kullanici_ismi`, `ip_address`, `machine_name`, `action_timestamp`) VALUES
-(29, 'Oturum kapatıldı', 'admin', '::1', 'COMP1', '2024-08-31 14:10:13');
-
 -- --------------------------------------------------------
 
 --
