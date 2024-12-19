@@ -39,4 +39,4 @@ DatumPort is a PHP-based data management system utilizing AJAX for dynamic inter
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details
+This project is licensed under the [BSD-3 License](LICENSE) - see the LICENSE file for details
