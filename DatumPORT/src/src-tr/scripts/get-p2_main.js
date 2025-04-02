@@ -11,6 +11,5 @@
       }});
        }
        DataCheck();
-
-      setInterval(DataCheck,7000);
+       setInterval(DataCheck,7000);
   });
