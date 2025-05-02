@@ -1,9 +1,9 @@
 <?php
-session_start();
-include("DB_CONNECT.php");
+include("lib/DB_CONNECT.php");
 include("lib/logs_function.php");
 include("lib/user_delete_query.php");
 
+session_start();
 $Erole = $_SESSION["ROLE"];
 
 if ($_SESSION["USERNAME"] && $_SESSION["KEY"] == 1) { // IF SESSION Exists
