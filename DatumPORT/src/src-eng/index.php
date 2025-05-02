@@ -1,5 +1,5 @@
 <?php
-include("DB_CONNECT.php"); 
+include("lib/DB_CONNECT.php"); 
 include("lib/logs_function.php"); 
 include("lib/captcha_offline.php");
 
