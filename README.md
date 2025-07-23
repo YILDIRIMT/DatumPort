@@ -32,10 +32,6 @@ DatumPort is a PHP-based data management system utilizing AJAX for dynamic inter
 5. **Import Database:**
    - Import the `database_map/datumport_msql.sql` file into MySQL. 
    - Additionally, detailed MySQL documentation can be found at `database_map/SQL_MAP.html`.
-     
-## Authors and Contributors
-
-* Habil YILDIRIM [@YILDIRIMT](https://github.com/YILDIRIMT)
 
 ## License
 
